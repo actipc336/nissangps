@@ -1,4 +1,4 @@
-Nissan GPS Navigation System Update: Complete Guide
+How to Update Nissan GPS Navigation System: A Complete Guide
 ==========================================================
 
 .. toctree::
